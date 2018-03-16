@@ -1,0 +1,11 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 383A-E7CA
+
+ Directory of C:\learn\gitplay
+
+16/03/2018  13:04    <DIR>          .
+16/03/2018  13:04    <DIR>          ..
+16/03/2018  13:03                72 README.md
+16/03/2018  13:04                 0 result.txt
+               2 File(s)             72 bytes
+               2 Dir(s)  115,249,479,680 bytes free
